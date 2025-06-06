@@ -45,7 +45,7 @@ The Aburi Girls Exeat Hub is a comprehensive digital platform designed to modern
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/aburi-girls-exeat-hub.git
+git clone https://github.com/your-username/aburi-girls-exeat-system.git
 
 # Navigate to project directory
 cd aburi-girls-exeat-hub
@@ -101,12 +101,12 @@ We welcome contributions! Please follow these steps:
 
 For support and inquiries:
 
-- Email: support@aburigirlsexeat.com
+- Email: antwijescaps1@gmail.com
 - Slack: [Join our workspace](https://slack.aburigirlsexeat.com)
 - Documentation: [Read our docs](https://docs.aburigirlsexeat.com)
 
 ---
 
 <div align="center">
-Made with ❤️ by the Aburi Girls Development Team
+Made with ❤️ by the Jescaps & Aburi Girls Development Team
 </div>
