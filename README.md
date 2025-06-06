@@ -48,7 +48,7 @@ The Aburi Girls Exeat Hub is a comprehensive digital platform designed to modern
 git clone https://github.com/your-username/aburi-girls-exeat-system.git
 
 # Navigate to project directory
-cd aburi-girls-exeat-hub
+cd aburi-girls-exeat-system
 
 # Install dependencies
 npm install
