@@ -4,9 +4,9 @@
 
 A modern digital solution for managing student leave requests at Aburi Girls Senior High School.
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/your-username/aburi-girls-exeat-hub)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/your-username/aburi-girls-exeat-system)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/your-username/aburi-girls-exeat-hub)
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/your-username/aburi-girls-exeat-system)
 
 </div>
 
